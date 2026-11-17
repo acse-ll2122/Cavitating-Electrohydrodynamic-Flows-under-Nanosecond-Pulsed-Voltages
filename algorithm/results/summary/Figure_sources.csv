@@ -1,0 +1,10 @@
+figure,current_source,inputs,mode,new_integration
+1,sensitive/figure/parameters/parameter_5x3.png,19,fixed81,True
+2,MG_epsilon/voltage/figure/epsilon_voltage.png,6,fixed81/MG,True
+3,MG_epsilon/rise_time/figure/epsilon_rise_time.png,6,fixed81/MG,True
+Algorithm_step_01,algorithm/figure/step_01.png,2,fresh matched pair,True
+Algorithm_step_02,algorithm/figure/step_02.png,2,fresh matched pair,True
+Algorithm_step_03,algorithm/figure/step_03.png,2,fresh matched pair,True
+Algorithm_step_04,algorithm/figure/step_04.png,2,fresh matched pair,True
+F1,MG_epsilon/voltage/figure/force/full_domain.png,2,fixed81/MG complete F,True
+F2,MG_epsilon/voltage/figure/force/near_wall.png,2,fixed81/MG complete F,True
